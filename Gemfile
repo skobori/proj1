@@ -18,6 +18,8 @@ group :development do
   gem 'binding_of_caller'
   gem 'quiet_assets'
   gem 'rails_layout'
+  gem 'pry'
+  gem 'pry-byebug'
 end
 
 group :production do
